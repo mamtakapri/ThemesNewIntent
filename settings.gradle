@@ -1,0 +1,3 @@
+include ':ThemesDataLibrary'
+include ':app'
+rootProject.name = "ThemesData"
